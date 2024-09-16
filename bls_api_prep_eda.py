@@ -12,7 +12,7 @@ import json
 import pandas as pd
 
 # my unique API key for BLS
-api_key = "316df4618dcf4de89a3a566c25ff26c0"
+api_key = "YOUR API KEY HERE"
 
 # series IDs, unique IDs specific to the BLS API that allow me to pull certain data
 series_ids = {
